@@ -25,7 +25,7 @@ The `labels.json` file maps blockchain addresses to human-readable labels. These
 3. Open the `labels.json` file.
 4. Add a new key-value entry:
 
-   * **Key**: the Hyperliquid EVM address in checksummed format (string).
+   * **Key**: the Kaspa EVM address in checksummed format (string).
    * **Value**: the desired label (string).
 
    ```json
